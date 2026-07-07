@@ -19,10 +19,10 @@ I am currently studying applied computer science<br>where I am developing my bac
 ---
 
 # 🧠 Professional Skills:
-* **Analytical Problem Solving:** Skuteczna identyfikacja i eliminacja wąskich gardeł w architekturze oprogramowania.
-* **Rapid Adaptability:** Błyskawiczne przyswajanie nowych technologii i wdrażanie ich w środowisku produkcyjnym.
-* **Cross-functional Collaboration:** Wydajna praca zespołowa, aktywny udział w procesach code review oraz projektowaniu systemów.
-* **Technical Documentation:** Tworzenie precyzyjnej, zorientowanej na detale dokumentacji technicznej i specyfikacji API.
+* **Analytical Problem Solving:** Effective identification and elimination of bottlenecks in software architecture.
+* **Rapid Adaptability:** Rapid adoption of new technologies and their implementation in production environments.
+* **Cross-functional Collaboration:** Efficient teamwork, active participation in code review processes and system design.
+* **Technical Documentation:** Creation of precise, detail-oriented technical documentation and API specifications.
 
 ---
 

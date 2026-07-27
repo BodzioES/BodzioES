@@ -28,8 +28,7 @@ I am currently studying applied computer science<br>where I am developing my bac
 
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats-46apw0ntb-bodzioes1.vercel.app/api/top-langs/?username=BodzioES&theme=dark&layout=compact)
-
+![Top Langs](https://github-readme-stats-46apw0ntb-bodzioes1.vercel.app/api/top-langs/?username=BodzioES&theme=dark&layout=compact&v=2)
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=BodzioES&icon=0&color=0)](https://visitcount.itsvg.in)
